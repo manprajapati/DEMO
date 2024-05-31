@@ -1,3 +1,3 @@
 # DEMO
 FIRST REPOSITORY
-AUTHOR - Man Prajapati
+AUTHOR - Man Rameshbhai Prajapati
